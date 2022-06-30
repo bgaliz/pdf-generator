@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "pdf-gen",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
